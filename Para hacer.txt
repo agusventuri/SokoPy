@@ -1,0 +1,7 @@
+1--> Que las cajas colisionen entre si y con las paredes
+2--> Nivel 3
+
+Extras:
+
+1--> Modo time trial, que sea lo mismo pero que el ranking se base en el tiempo. Usando datetime me fijo a que hora empezó y a que hora termino. Hago el calculo y muestro lo que se demoró con min y seg
+2-->Autoresolucón del nivel. Que eso conlleve a la resta (o suma en caso de los pasos) de un porcentaje del total de los puntos. De esa manera se evita su uso en niveles altos ya que el porcentaje va a representar una cantidad mayor de puntos.
