@@ -8,7 +8,7 @@ El objetivo del juego es odenar las cajas en unsa zona señalizado. Parece fáci
 Más información
 ---------------
 
-Este juego está siendo desarrollado por mí(Agustín Venturi) y por un compañero(Agustín Bertea). Los dos somos argentinos que estudian en el colegio secundario ITS Villada, estamos en la especialidad de Programación. En este momento estamos viendo Python
+Este juego está siendo desarrollado por mí(Agustín Venturi) y por un compañero(Agustín Bertea)(mentira, Bertea no hace nada). Los dos somos argentinos que estudian en el colegio secundario ITS Villada, estamos en la especialidad de Programación. En este momento estamos viendo Python
 
 Por cualquier duda contactar al mail agus97v@gmail.com
 
